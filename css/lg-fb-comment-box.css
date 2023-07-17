@@ -8,11 +8,11 @@
   top: 0;
   width: 420px;
   z-index: 99999;
-  background: #fff url("../img/loading.gif") no-repeat scroll center center; }
+  background: #fff url("../images/loading.gif") no-repeat scroll center center; }
   .lg-outer.fb-comments .fb-comments.fb_iframe_widget {
     background-image: none; }
     .lg-outer.fb-comments .fb-comments.fb_iframe_widget.fb_iframe_widget_loader {
-      background: #fff url("../img/loading.gif") no-repeat scroll center center; }
+      background: #fff url("../images/loading.gif") no-repeat scroll center center; }
 .lg-outer.fb-comments .lg-toolbar {
   right: 420px;
   width: auto; }
@@ -23,7 +23,7 @@
   .lg-outer.fb-comments .lg-item.lg-complete .lg-img-wrap {
     background-image: none; }
 .lg-outer.fb-comments .lg-img-wrap {
-  background: url(../img/loading.gif) no-repeat scroll center center transparent; }
+  background: url(../images/loading.gif) no-repeat scroll center center transparent; }
 .lg-outer.fb-comments .lg-sub-html {
   padding: 0;
   position: static; }
