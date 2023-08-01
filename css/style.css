@@ -2827,8 +2827,6 @@ img {
   left: 48%;
   top: 44%;
   object-fit: cover;
-  height: 350px;
-  width: 348px;
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
@@ -4213,7 +4211,7 @@ img {
 
 .event-section .event-grids .grid {
   background: #fff;
-  width: calc(25% - 20px);
+  width: calc(30% - 20px);
   float: left;
   padding: 20px;
   margin: 0 10px 30px;
